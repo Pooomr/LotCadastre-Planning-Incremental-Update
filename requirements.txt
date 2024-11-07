@@ -1,0 +1,9 @@
+# requirements.txt
+
+pandas==2.1.1
+cx_Oracle==8.3.0
+requests==2.31.0
+
+# IMPORTANT:
+# - 'arcpy' must be installed via ArcGIS (not available on PyPI).
+# - Ensure ArcGIS software (e.g., ArcGIS Pro) is installed to access 'arcpy'.
